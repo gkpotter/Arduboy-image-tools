@@ -1,7 +1,7 @@
 import serial
 import time
-import numpy as np
 import argparse
+import numpy as np
 from PIL import Image
 
 def main():
